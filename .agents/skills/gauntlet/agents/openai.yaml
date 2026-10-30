@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gauntlet"
+  short_description: "Construir, auditar y corregir con evidencia"
+  default_prompt: "Usa $gauntlet para resolver esta tarea, verificar el resultado y revisar los cambios con evidencia."
